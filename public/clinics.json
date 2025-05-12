@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "nome": "Clínica Vida+ 1",
+    "especialidade": "Endocrinologia",
+    "localizacao": "Namibe - Moçâmedes"
+  },
+  {
+    "id": 2,
+    "nome": "Centro Médico Esperança 2",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Malanje - Zona Sul"
+  },
+  {
+    "id": 3,
+    "nome": "Centro Médico Harmonia 3",
+    "especialidade": "Dermatologia",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 4,
+    "nome": "Clínica Saúde Total 4",
+    "especialidade": "Ginecologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 5,
+    "nome": "Clínica Esperança Viva 5",
+    "especialidade": "Ortopedia",
+    "localizacao": "Malanje - Zona Sul"
+  },
+  {
+    "id": 6,
+    "nome": "Clínica Saúde Total 6",
+    "especialidade": "Dermatologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 7,
+    "nome": "Clínica dos Milagres 7",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 8,
+    "nome": "Clínica dos Milagres 8",
+    "especialidade": "Neurologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 9,
+    "nome": "Centro Médico Esperança 9",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 10,
+    "nome": "Clínica dos Milagres 10",
+    "especialidade": "Pediatria",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 11,
+    "nome": "Policlínica Luanda 11",
+    "especialidade": "Neurologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 12,
+    "nome": "Clínica Nova Vida 12",
+    "especialidade": "Dermatologia",
+    "localizacao": "Lubango - Tchioco"
+  },
+  {
+    "id": 13,
+    "nome": "Clínica Bem Estar 13",
+    "especialidade": "Cardiologia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 14,
+    "nome": "Clínica Saúde Total 14",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Benguela - Lobito"
+  },
+  {
+    "id": 15,
+    "nome": "Clínica Nova Vida 15",
+    "especialidade": "Dermatologia",
+    "localizacao": "Namibe - Moçâmedes"
+  },
+  {
+    "id": 16,
+    "nome": "Centro Médico Harmonia 16",
+    "especialidade": "Ginecologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 17,
+    "nome": "Clínica Saúde Total 17",
+    "especialidade": "Neurologia",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 18,
+    "nome": "Clínica Bem Estar 18",
+    "especialidade": "Ginecologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 19,
+    "nome": "Clínica Saúde Total 19",
+    "especialidade": "Dermatologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 20,
+    "nome": "Centro Médico Esperança 20",
+    "especialidade": "Pediatria",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 21,
+    "nome": "Clínica Esperança Viva 21",
+    "especialidade": "Ginecologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 22,
+    "nome": "Clínica Saúde Total 22",
+    "especialidade": "Ginecologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 23,
+    "nome": "Clínica Nova Vida 23",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 24,
+    "nome": "Clínica Saúde Total 24",
+    "especialidade": "Ortopedia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 25,
+    "nome": "Centro Médico Esperança 25",
+    "especialidade": "Ginecologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 26,
+    "nome": "Centro Médico Esperança 26",
+    "especialidade": "Ginecologia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 27,
+    "nome": "Centro Médico Harmonia 27",
+    "especialidade": "Pediatria",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 28,
+    "nome": "Clínica Saúde Total 28",
+    "especialidade": "Pediatria",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 29,
+    "nome": "Clínica Nova Vida 29",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 30,
+    "nome": "Clínica Esperança Viva 30",
+    "especialidade": "Neurologia",
+    "localizacao": "Luanda - Ingombota"
+  },
+  {
+    "id": 31,
+    "nome": "Clínica dos Milagres 31",
+    "especialidade": "Ortopedia",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 32,
+    "nome": "Clínica Saúde Total 32",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Lubango - Tchioco"
+  },
+  {
+    "id": 33,
+    "nome": "Clínica Bem Estar 33",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 34,
+    "nome": "Centro Médico Esperança 34",
+    "especialidade": "Ortopedia",
+    "localizacao": "Namibe - Moçâmedes"
+  },
+  {
+    "id": 35,
+    "nome": "Clínica Sagrada Saúde 35",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 36,
+    "nome": "Clínica Esperança Viva 36",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Lubango - Tchioco"
+  },
+  {
+    "id": 37,
+    "nome": "Clínica Saúde Total 37",
+    "especialidade": "Dermatologia",
+    "localizacao": "Luanda - Ingombota"
+  },
+  {
+    "id": 38,
+    "nome": "Clínica Vida+ 38",
+    "especialidade": "Ortopedia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 39,
+    "nome": "Clínica Vida+ 39",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 40,
+    "nome": "Policlínica Luanda 40",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 41,
+    "nome": "Policlínica Luanda 41",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Malanje - Zona Sul"
+  },
+  {
+    "id": 42,
+    "nome": "Clínica Esperança Viva 42",
+    "especialidade": "Cardiologia",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 43,
+    "nome": "Policlínica Luanda 43",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Namibe - Moçâmedes"
+  },
+  {
+    "id": 44,
+    "nome": "Clínica dos Milagres 44",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Luanda - Ingombota"
+  },
+  {
+    "id": 45,
+    "nome": "Centro Médico Esperança 45",
+    "especialidade": "Ortopedia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 46,
+    "nome": "Clínica Saúde Total 46",
+    "especialidade": "Neurologia",
+    "localizacao": "Benguela - Lobito"
+  },
+  {
+    "id": 47,
+    "nome": "Clínica Esperança Viva 47",
+    "especialidade": "Neurologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 48,
+    "nome": "Policlínica Luanda 48",
+    "especialidade": "Cardiologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 49,
+    "nome": "Clínica dos Milagres 49",
+    "especialidade": "Neurologia",
+    "localizacao": "Luanda - Ingombota"
+  },
+  {
+    "id": 50,
+    "nome": "Policlínica Luanda 50",
+    "especialidade": "Dermatologia",
+    "localizacao": "Benguela - Lobito"
+  },
+  {
+    "id": 51,
+    "nome": "Clínica Saúde Total 51",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 52,
+    "nome": "Clínica Vida+ 52",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Malanje - Zona Sul"
+  },
+  {
+    "id": 53,
+    "nome": "Policlínica Luanda 53",
+    "especialidade": "Ginecologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 54,
+    "nome": "Policlínica Luanda 54",
+    "especialidade": "Dermatologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 55,
+    "nome": "Clínica Sagrada Saúde 55",
+    "especialidade": "Pediatria",
+    "localizacao": "Malanje - Zona Sul"
+  },
+  {
+    "id": 56,
+    "nome": "Policlínica Luanda 56",
+    "especialidade": "Pediatria",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 57,
+    "nome": "Clínica dos Milagres 57",
+    "especialidade": "Pediatria",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 58,
+    "nome": "Centro Médico Esperança 58",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 59,
+    "nome": "Clínica Nova Vida 59",
+    "especialidade": "Endocrinologia",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 60,
+    "nome": "Clínica dos Milagres 60",
+    "especialidade": "Ortopedia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 61,
+    "nome": "Clínica Nova Vida 61",
+    "especialidade": "Neurologia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 62,
+    "nome": "Clínica Bem Estar 62",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 63,
+    "nome": "Centro Médico Harmonia 63",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 64,
+    "nome": "Clínica Bem Estar 64",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Luanda - Ingombota"
+  },
+  {
+    "id": 65,
+    "nome": "Clínica Saúde Total 65",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 66,
+    "nome": "Centro Médico Harmonia 66",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 67,
+    "nome": "Centro Médico Esperança 67",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 68,
+    "nome": "Clínica Sagrada Saúde 68",
+    "especialidade": "Ginecologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 69,
+    "nome": "Clínica Nova Vida 69",
+    "especialidade": "Ortopedia",
+    "localizacao": "Malanje - Zona Sul"
+  },
+  {
+    "id": 70,
+    "nome": "Clínica Nova Vida 70",
+    "especialidade": "Ortopedia",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 71,
+    "nome": "Clínica Nova Vida 71",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Benguela - Lobito"
+  },
+  {
+    "id": 72,
+    "nome": "Clínica Saúde Total 72",
+    "especialidade": "Cardiologia",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 73,
+    "nome": "Policlínica Luanda 73",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 74,
+    "nome": "Clínica dos Milagres 74",
+    "especialidade": "Pediatria",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 75,
+    "nome": "Clínica Sagrada Saúde 75",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Lubango - Tchioco"
+  },
+  {
+    "id": 76,
+    "nome": "Clínica Esperança Viva 76",
+    "especialidade": "Oftalmologia",
+    "localizacao": "Lubango - Tchioco"
+  },
+  {
+    "id": 77,
+    "nome": "Centro Médico Harmonia 77",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Luanda - Ingombota"
+  },
+  {
+    "id": 78,
+    "nome": "Clínica Sagrada Saúde 78",
+    "especialidade": "Ginecologia",
+    "localizacao": "Luanda - Ingombota"
+  },
+  {
+    "id": 79,
+    "nome": "Clínica Bem Estar 79",
+    "especialidade": "Cardiologia",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 80,
+    "nome": "Clínica Saúde Total 80",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 81,
+    "nome": "Clínica Vida+ 81",
+    "especialidade": "Dermatologia",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 82,
+    "nome": "Clínica Saúde Total 82",
+    "especialidade": "Dermatologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 83,
+    "nome": "Clínica dos Milagres 83",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Namibe - Moçâmedes"
+  },
+  {
+    "id": 84,
+    "nome": "Clínica Esperança Viva 84",
+    "especialidade": "Dermatologia",
+    "localizacao": "Lubango - Tchioco"
+  },
+  {
+    "id": 85,
+    "nome": "Clínica Nova Vida 85",
+    "especialidade": "Dermatologia",
+    "localizacao": "Benguela - Lobito"
+  },
+  {
+    "id": 86,
+    "nome": "Policlínica Luanda 86",
+    "especialidade": "Pediatria",
+    "localizacao": "Luanda - Ingombota"
+  },
+  {
+    "id": 87,
+    "nome": "Clínica Nova Vida 87",
+    "especialidade": "Ginecologia",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 88,
+    "nome": "Clínica Bem Estar 88",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 89,
+    "nome": "Centro Médico Harmonia 89",
+    "especialidade": "Ginecologia",
+    "localizacao": "Huambo - Centro"
+  },
+  {
+    "id": 90,
+    "nome": "Clínica Esperança Viva 90",
+    "especialidade": "Pediatria",
+    "localizacao": "Uíge - Bairro Novo"
+  },
+  {
+    "id": 91,
+    "nome": "Clínica Vida+ 91",
+    "especialidade": "Pediatria",
+    "localizacao": "Malanje - Zona Sul"
+  },
+  {
+    "id": 92,
+    "nome": "Centro Médico Esperança 92",
+    "especialidade": "Otorrinolaringologia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 93,
+    "nome": "Clínica Sagrada Saúde 93",
+    "especialidade": "Dermatologia",
+    "localizacao": "Luanda - Talatona"
+  },
+  {
+    "id": 94,
+    "nome": "Centro Médico Esperança 94",
+    "especialidade": "Psiquiatria",
+    "localizacao": "Malanje - Zona Sul"
+  },
+  {
+    "id": 95,
+    "nome": "Policlínica Luanda 95",
+    "especialidade": "Ginecologia",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 96,
+    "nome": "Policlínica Luanda 96",
+    "especialidade": "Cardiologia",
+    "localizacao": "Cabinda - Centro"
+  },
+  {
+    "id": 97,
+    "nome": "Policlínica Luanda 97",
+    "especialidade": "Pediatria",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 98,
+    "nome": "Clínica Bem Estar 98",
+    "especialidade": "Endocrinologia",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 99,
+    "nome": "Policlínica Luanda 99",
+    "especialidade": "Ortopedia",
+    "localizacao": "Sumbe - Marginal"
+  },
+  {
+    "id": 100,
+    "nome": "Clínica Esperança Viva 100",
+    "especialidade": "Cardiologia",
+    "localizacao": "Cabinda - Centro"
+  }
+]
